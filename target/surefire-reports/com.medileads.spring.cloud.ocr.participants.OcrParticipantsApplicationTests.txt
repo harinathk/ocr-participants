@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.medileads.spring.cloud.ocr.participants.OcrParticipantsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.843 sec - in com.medileads.spring.cloud.ocr.participants.OcrParticipantsApplicationTests
